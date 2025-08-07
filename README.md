@@ -1,12 +1,12 @@
-Shimmer Loading Effect
+Shimmer Loading 
 
 
-###This project presents a clean and minimal implementation of a shimmer loading effect using Jetpack Compose, ideal for enhancing user experience in Android app loading 
 
+This project presents a clean and minimal implementation of a shimmer loading effect using Jetpack Compose, ideal for enhancing user experience in Android app loading 🛠️
 
 
  
-📱 Screenshot
+ 📱Screenshot
  &nbsp;&nbsp;&nbsp;
 <p align="center">
  
