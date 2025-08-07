@@ -7,9 +7,8 @@
 #####Shimmer 
  &nbsp;&nbsp;&nbsp;
 <p align="center">
-  <img src="https://github.com/abol4dp/ShimmerLoading/blob/master/shimmer.png" width="280" />
+ 
    &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/abol4dp/ShimmerLoading/blob/master/shimmer.png" width="285" />
-   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/abol4dp/ShimmerLoading/blob/master/shimmer.png" width="285" />
+
 </p>
